@@ -1,6 +1,4 @@
-# [Daniel Ahmetshin]
-
-[Software Developer]
+# Daniel Ahmetshin
 
 ---
 
@@ -12,16 +10,16 @@ I am a full stack software developer and funny guy.
 
 ## Skills
 
-- **Programming Languages**: [JavaScript, Java]
-- **Frameworks and Libraries**: [React, Node.js, Spring]
-- **Tools and Technologies**: [Linux, Bash, Git, Docker]
-- **Databases**: [MySQL, PostgreSQL]
+- **Programming Languages**: JavaScript, Java
+- **Frameworks and Libraries**: React, Node.js, Spring
+- **Tools and Technologies**: Linux, Bash, Git, Docker
+- **Databases**: MySQL, PostgreSQL
 
 ---
 
 ## Projects
 
-### [Naocustom]
+### Naocustom
 - **Description**: Online shop with Nginx reverse proxy and Oauth2.
 - **GitHub Link**: [Link to the project repository](https://github.com/neGleb1/naocustom)
 
@@ -29,11 +27,11 @@ I am a full stack software developer and funny guy.
 
 ## Education
 
-**[Bachelor] in [Computer Science]**  
-[OAMK], [Oulu] - [2027]
+**Bachelor in Computer Science**  
+OAMK, Oulu - 2027
 
-**[Computer Science]**  
-[JEDU], [Nivala] - [2023]
+**Computer Science college**  
+JEDU, Nivala - 2023
 
 ---
 
