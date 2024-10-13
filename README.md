@@ -1,12 +1,12 @@
 # Daniel Ahmetshin
 
----
+
 
 ## About Me
 
 I am a full stack software developer and funny guy.
 
----
+
 
 ## Skills
 
@@ -15,7 +15,7 @@ I am a full stack software developer and funny guy.
 - **Tools and Technologies**: Linux, Bash, Git, Docker
 - **Databases**: MySQL, PostgreSQL
 
----
+
 
 ## Projects
 
@@ -23,7 +23,7 @@ I am a full stack software developer and funny guy.
 - **Description**: Online shop with Nginx reverse proxy and Oauth2.
 - **GitHub Link**: [Link to the project repository](https://github.com/neGleb1/naocustom)
 
----
+
 
 ## Education
 
@@ -33,7 +33,7 @@ OAMK, Oulu - 2027
 **Computer Science college**  
 JEDU, Nivala - 2023
 
----
+
 
 ## Contact Me
 
